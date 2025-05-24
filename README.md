@@ -86,7 +86,7 @@ Based on this analysis:
  
 ##  Dashboard Preview
 
- [View the full dashboard in PDF](./Loan%20Default%20dashboard.pdf)  
+ [View the full dashboard in PDF](.Cyber_Security_Dashboard.pdf)  
  Explore the interactive and dynamic dashboard in [Power BI here](https://app.powerbi.com/view?r=eyJrIjoiOTdjM2FkMGItYjM2OC00MjU5LTlkYjctNTFmNzdiNDAyYjMyIiwidCI6IjJjZDk3YzU4LTY0ODAtNDEzYS1hNjMyLWI1OTNiMDZkZjgyOCJ9).
  
 
