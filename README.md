@@ -29,21 +29,23 @@ To analyze a decade of global cybersecurity threats, with the goal of:
 #### Global Financial Impact
 
 -  The total financial loss from cyber incidents between 2015 and 2024 reached a staggering $151.48 billion, averaging $50.49 million annually.
-  ![KPI](kpi.png)
-
+   ![Financial loss](Fin_loss.png)
 -  The UK experienced the highest financial losses at $16.5 billion, followed by Germany and Brazil.
-  ![default rate](Default_by_age.png)
+   ![Financial loss](fin_loss_country.png)
+
+
 
 #### User Impact by Country
 
 -  Brazil and the UK reported the most affected users, with 169 million and 157 million respectively.
 -  Other highly impacted countries include France, Russia, and India, each with user exposure exceeding 140 million.
-   ![default](Defaultms.png)
+   ![Impact country](Impact_country.png)
 
 #### Sector Vulnerability
  - The IT, banking, and healthcare sectors were the top three targets, with each seeing over 200 million users affected.
  - Government and telecommunications also faced significant breaches, indicating widespread vulnerability across both public and private infrastructures.
-  ![default](Defaultms.png)
+   
+  ![Vulneravility](impact_sector.png)
 
 #### Attack Sources and Methods
 
@@ -56,18 +58,18 @@ The leading attack vectors were:
 - Ransomware
 - Malware
 Notably, phishing and DDoS attacks were among the costliest in terms of financial losses.
-   ![Default trend](Defaulttrend.png)
+   ![Attack source](attack_source.png)
 
 #### Exploited Vulnerabilities
 - Zero-day vulnerabilities and weak passwords were the most exploited, collectively resulting in over 775 million user compromises and $77 billion in losses.
 - Other major vulnerabilities included social engineering and unpatched software, highlighting persistent gaps in basic cyber hygiene.
-    ![Default reason](Defaultreason.png)
+    ![Vulnerability](Vulneribility.png)
 
   #### Defensive Efficiency
 
 Among various defense strategies, Firewall led in resolution speed with an average of 36.9 hours, closely followed by antivirus detection and encryption methods.
 
-![Default reason](Defaultreason.png)
+![resolution](resolution.png)
 
 ##  Recommendation
 
